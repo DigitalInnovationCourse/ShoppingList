@@ -1,0 +1,23 @@
+#main-div{
+     border: 1px solid green;
+
+}
+
+#top-div{
+     text-align: center;
+     border: 1px solid chartreuse;
+    
+     padding: 20px;
+}
+#menu{
+     float: left;
+     padding: 20px;
+     border: 1px solid black;
+     width: 65%;
+}
+#content{
+     float: left;
+     padding: 20px;
+     border: 1px solid black;
+     width: 25%;
+}
